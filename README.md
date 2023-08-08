@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm İlker Kurtel</h1>
-<h3>Front-end Developer at onedio.com, who lives in Ankara.</h3>
+<h3>developer at jotform.com, who lives in Ankara.</h3>
 
 📫. How to reach me [ilkerkurtel@gmail.com](<mailto:ilkerkurtel@gmail.com>) 
 
